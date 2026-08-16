@@ -1,6 +1,6 @@
 // controlador aereo  
 
-//Librerías:
+//LibrerÃ­as:
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> 
@@ -97,7 +97,7 @@ int main (){
 	return 0;
 }
 
-/*Definición de funciones*/
+/*DefiniciÃ³n de funciones*/
 void crear_lista(nodo **lista){*lista=NULL;}
 
 //CREA LA COLA
