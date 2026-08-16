@@ -67,3 +67,9 @@ codigo_del_grupo_3/
  ```bash
    python "codigo_del_grupo_3/Sistema de Gestión de Órdenes de Mantenimiento.py"
 
+## Prácticas en C
+
+Además del proyecto principal, también subo algunos de mis primeros programas en C, como este simulador de torre de control, que fue mi primer acercamiento a un sistema en tiempo real.
+
+**Nota:** No es funcional al 100%, pero es el testimonio de mi evolución.  
+**Materia :** Algoritmos y Estructuras de Datos.
